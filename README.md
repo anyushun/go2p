@@ -1,2 +1,1 @@
-# interview
-Summary of interview questions
+# go language practice and principles
